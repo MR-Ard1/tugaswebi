@@ -15,10 +15,10 @@ Dilengkapi popup kontak yang berisi WhatsApp, Email, Instagram, GitHub, dan Link
 ## Preview
 
 ### Tampilan Lengkap
-![Tampilan Lengkap](images/preview-full.png)
+![Tampilan Lengkap](./asset/images/preview-full.png)
 
 ### Popup Kontak
-![Tampilan Popup Kontak](images/preview-contact.png)
+![Tampilan Popup Kontak](./asset/images/preview-contact.png)
 
 > Klik **Live Demo** di atas untuk mencoba langsung di browser.
 
